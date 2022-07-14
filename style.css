@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0%;
+}
+.heading {
+    background-color: aquamarine;
+    border: 5px solid black;
+    padding: 50px 0;
+    text-align: center;
+
+}
+.cd {
+    border: 5px solid black;
+    padding: 50px;
+    width: 30%;
+
+}
